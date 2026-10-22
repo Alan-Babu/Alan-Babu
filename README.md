@@ -34,8 +34,6 @@ I build production-oriented AI applications, from LLM-powered agents and retriev
 
 ### [AI-Powered OSS Risk Analyzer](https://github.com/Alan-Babu/AI-Powered_OSS_Analyser)
 
-[**Live Demo →**](https://ai-powered-oss-analyser.vercel.app)
-
 An AI-powered application that analyzes software dependencies, assesses security risks, and explains vulnerabilities using machine learning and NLP.
 
 - **Microservices architecture:** Five FastAPI services for security scanning, vulnerability explanations, ML-based risk scoring, dependency knowledge graphs, and conversational assistance.
