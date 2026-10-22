@@ -1,36 +1,88 @@
-# Hi, I'm Alan 👋
+# Hi, I'm Alan Babu 👋
 
-**AI Backend Engineer** — I build production systems where LLMs, retrieval, and reliable APIs meet.
+### AI Backend Engineer | Full-Stack Developer | LLM & Multi-Agent Systems
 
-- **Now:** Sole backend owner of an intelligent document verification platform. I handle the architecture, the AI pipeline, and the security hardening.
-- **Before:** Wipro Technologies (2021–2025). Built RAG chatbots, transformer-based NLP systems, and an open-source software risk analyzer. Also wrote production router firmware in Lua on OpenWrt/Broadcom systems.
-- **Education:** M.Tech, BITS Pilani
+I build production-oriented AI applications, from LLM-powered agents and retrieval-augmented generation (RAG) pipelines to intelligent document processing and secure backend platforms.
 
-## What I work with
+- 🔭 **Currently working on:** AI backend platforms, document-verification pipelines, and multi-agent systems for enterprise and government workflows.
+- 🤖 **AI engineering:** RAG, vision-language models, OCR, agent orchestration, MCP tools, prompt optimization, and LLM observability.
+- ⚙️ **Backend engineering:** Python, FastAPI, Java, Spring Boot, REST APIs, distributed task processing, and database-backed services.
+- 🏗️ **Systems:** Multi-agent microservices, tenant-aware authentication, secure API design, and reusable LLMOps tooling.
+- 💼 **Experience:** 4+ years in software engineering across AI backend development and enterprise full-stack applications.
+- 🎓 **Education:** M.Tech in Computing Systems & Infrastructure, BITS Pilani (WILP).
 
-| Area | Tools |
-|---|---|
-| AI / ML | LangChain · RAG · FAISS · Sentence-BERT · Hugging Face Transformers · OpenAI APIs · PyTorch · scikit-learn |
-| Backend | Python · FastAPI · Spring Boot · PostgreSQL · REST API design |
-| Frontend | Angular · TypeScript · Tailwind CSS |
-| Cloud & systems | AWS · Azure · Lua on OpenWrt |
+---
 
-## Featured project
+## 🛠️ Tech Stack
 
-### [AI-Powered OSS Analyzer](https://github.com/Alan-Babu/AI-Powered_OSS_Analyser) · [Live demo](https://ai-powered-oss-analyser.vercel.app)
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, TypeScript, SQL, Lua |
+| **Backend & APIs** | FastAPI, Spring Boot, SQLAlchemy, Alembic, REST APIs |
+| **LLMs & Agentic AI** | LangChain, LangGraph, MCP / FastMCP, OpenAI APIs, Hugging Face Transformers |
+| **RAG & Retrieval** | FAISS, pgvector, ChromaDB, Sentence-BERT, embeddings |
+| **Vision & Document AI** | Qwen3-VL, PaddleOCR, Surya OCR, PyMuPDF |
+| **LLMOps & Observability** | Langfuse, DSPy, vLLM, prompt versioning, tracing |
+| **Frontend** | Angular, TypeScript, Tailwind CSS, Bootstrap, Chart.js, ECharts |
+| **Databases & Messaging** | PostgreSQL, MongoDB, MySQL, Redis, RabbitMQ |
+| **Security & Identity** | Keycloak, OIDC, JWT, RBAC, Zero Trust, RS256 licensing |
+| **Cloud & DevOps** | AWS, Azure, Linux, Docker, Docker Compose, CI/CD, Git |
 
-Scans a GitHub repository's dependencies and scores their security risk.
+---
 
-- Five FastAPI microservices: security scanner, NLP vulnerability explainer, ML risk model, dependency knowledge graph, and a chat assistant
-- Spring Boot API in front of the services and an Angular 19 frontend
-- Pulls live package metadata from npm, PyPI, Maven Central, and GitHub
+## 🚀 Featured Project
 
-## A note on what you see here
+### [AI-Powered OSS Risk Analyzer](https://github.com/Alan-Babu/AI-Powered_OSS_Analyser)
 
-Most of the production code I've written is in private company repositories. I'm happy to walk through the architecture and the trade-offs in a conversation.
+[**Live Demo →**](https://ai-powered-oss-analyser.vercel.app)
 
-## Get in touch
+An AI-powered application that analyzes software dependencies, assesses security risks, and explains vulnerabilities using machine learning and NLP.
 
-I'm open to conversations about AI backend roles, collaborations, and products worth building.
+- **Microservices architecture:** Five FastAPI services for security scanning, vulnerability explanations, ML-based risk scoring, dependency knowledge graphs, and conversational assistance.
+- **Backend integration:** Spring Boot API layer connected to the AI services.
+- **Interactive dashboards:** Angular 19 with Chart.js and ECharts.
+- **Package ecosystem data:** Integrations with npm, PyPI, Maven Central, and GitHub.
+- **AI-assisted explanations:** Hugging Face Transformers, LangChain, and OpenAI APIs for contextual vulnerability analysis.
 
-[LinkedIn](https://www.linkedin.com/in/alan-babu-186545198) · [Email](mailto:alanbabu4.5.20@gmail.com)
+---
+
+## 🧩 Areas I Work In
+
+### 🤖 Multi-Agent AI Systems
+- Building AI agent services with reusable architecture, authentication, review workflows, and feedback loops.
+- Connecting agents to business operations and scheduling through MCP tools.
+
+### 📄 Intelligent Document Processing
+- OCR and vision-language extraction for noisy, real-world documents.
+- Qwen3-VL inference with PaddleOCR fallback and confidence-based human review.
+
+### 🧠 RAG & Enterprise Knowledge Assistants
+- Retrieval pipelines using embeddings, FAISS, and pgvector.
+- Domain-specific assistants for policy retrieval, legal compliance, multilingual knowledge access, and enterprise analytics.
+
+### ⚡ LLMOps & AI Infrastructure
+- Shared tooling for tracing, prompt versioning, model access, and prompt optimization.
+- Distributed processing with Celery and RabbitMQ, configurable deployments, and production observability.
+
+---
+
+## 💼 Experience
+
+- **AI Backend Engineer** — Urbantech Transformations LLC · 2025–Present
+- **Full-Stack Developer** — Wipro Technologies · Dec 2021–2025
+
+My work spans AI engineering, backend architecture, enterprise applications, distributed systems, and embedded router interfaces.
+
+Much of my recent production work is in private company repositories, so the public projects on my profile represent only part of my engineering experience.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alan-babu-186545198)
+- 📧 [Email](mailto:alanbabu4.5.20@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/Alan-Babu)
+
+---
+
+*Building AI systems that work beyond the demo.*
